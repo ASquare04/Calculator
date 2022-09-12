@@ -1,4 +1,4 @@
-# Calculator-JS
+# Calculator
 
 * Structure of Basic Calculator
 
